@@ -5,6 +5,8 @@
 
 I have experience and knowledge in various machine learning techniques, data analysis, and data visualization. Through utilizing these skills and Python, I aim to contribute to innovative solutions for the renewable energy sector.
 
+Welcome to my personal GitHub account, here I will be uploading different personal projects that I am interested in carrying out, as well as the repositories associated to my Medium articles.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luistellez1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luistellez1998" height="30" width="40" /></a>
